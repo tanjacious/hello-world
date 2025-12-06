@@ -1,2 +1,1 @@
-# hello-world
-Repository for practicing the GitHub Flow
+I am a middle aged female exploring a new career path
